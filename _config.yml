@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Husserl015
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Live long and prosper"
   email: 
   disqus-shortname: 
   twitter: #username
@@ -40,13 +40,13 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: husserl015#username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
   instagram: #username
   lastfm: #username
-  tumblr: #username
+  tumblr: see2#username
   pinterest: #username
   foursquare: #username
   steam: #username
